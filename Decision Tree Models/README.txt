@@ -4,11 +4,6 @@ The file 'Assignment 3 kyphosis' contains the R code for analysing the dataset k
 
 The file 'Assignment 3 solder' contains the R code for analysing the solder dataset using rpart.
 
-__________________________
-
-Answers to Questions 5 and 6
-__________________________
-
 For the kyphosis dataset:
 
 A training data of 80% random samples and test data of 20% random samples,gives an accuracy of:
